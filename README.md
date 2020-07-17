@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently in India(wfh 🏡) and working on GoLang, Containers and Kubernetes related applications. 
 
-- Know more about me and get in touch with me [here!!!](https://karthikeyan-govindaraj.netlify.app/)
+I'm an engineer at BlackRock; now in India(wfh 🏡). Previously I worked at Toyota and Northern Trust.
+
+* 💬 Ask me about: Kubernetes <img src="./kubernetes.png" width="15">, Containers, Go <img src="./golang.png" width="15">, nodeJS
+* 😄 Pronouns: he/him
+* 🌍 [Website](https://karthikeyan-govindaraj.netlify.app/)
