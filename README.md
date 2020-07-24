@@ -21,3 +21,4 @@ I'm an engineer at BlackRock; now in India(wfh 🏡). Previously I worked at Toy
 * 💬 Ask me about: Kubernetes <img src="./kubernetes.png" width="15">, Containers, Go <img src="./golang.png" width="15">, nodeJS
 * 😄 Pronouns: he/him
 * 🌍 [Website](https://karthikeyan-govindaraj.netlify.app/)
+* 📧 Shoot me an email if you got anything interesting to discuss
