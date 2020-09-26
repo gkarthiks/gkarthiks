@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 
 I'm an engineer at BlackRock; now in India(wfh 🏡). Previously I worked at Toyota and Northern Trust.
 
-* 💬&nbsp;Ask me about: Kubernetes <img src="./kubernetes.png" width="15">, Containers, Go <img src="./golang.png" width="15">, nodeJS
-* 😄&nbsp;Pronouns: he/him
-* 🌍&nbsp;know more about me [here](https://about.me/karthikeyangovindaraj) or [here](https://karthikeyan-govindaraj.netlify.app/)
-* 📧&nbsp;Shoot me an email if you got anything interesting to discuss
-* 🤔&nbsp;I’m looking for help with co-contributors and maintainers for [Container Building Blocks](https://github.com/Container-Building-Blocks/)
-* 📫&nbsp;To reach me [click here](https://karthikeyan-govindaraj.netlify.app/#contact)
+* 💬&nbsp;&nbsp;&nbsp;Ask me about: Kubernetes <img src="./kubernetes.png" width="15">, Containers, Go <img src="./golang.png" width="15">, nodeJS
+* 😄&nbsp;&nbsp;&nbsp;Pronouns: he/him
+* 🌍&nbsp;&nbsp;&nbsp;know more about me [here](https://about.me/karthikeyangovindaraj) or [here](https://karthikeyan-govindaraj.netlify.app/)
+* 📧&nbsp;&nbsp;&nbsp;Shoot me an email if you got anything interesting to discuss
+* 🤔&nbsp;&nbsp;&nbsp;I’m looking for help with co-contributors and maintainers for [Container Building Blocks](https://github.com/Container-Building-Blocks/)
+* 📫&nbsp;&nbsp;&nbsp;To reach me [click here](https://karthikeyan-govindaraj.netlify.app/#contact)
