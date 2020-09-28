@@ -26,4 +26,4 @@ I'm an engineer at BlackRock; now in India(wfh 🏡). Previously I worked at Toy
 * 📫&nbsp;&nbsp;&nbsp;To reach me [click here](https://karthikeyan-govindaraj.netlify.app/#contact)
 
 
-https://github-readme-stats.vercel.app/api?username=gkarthiks&show_icons=true
+![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gkarthiks&show_icons=true)
