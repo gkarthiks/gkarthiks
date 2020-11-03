@@ -25,6 +25,8 @@ I'm an engineer at BlackRock; now in India(wfh 🏡). Previously I worked at Toy
 * 🤔&nbsp;&nbsp;&nbsp;I’m looking for help with co-contributors and maintainers for [Container Building Blocks](https://github.com/Container-Building-Blocks/)
 * 📫&nbsp;&nbsp;&nbsp;To reach me [click here](https://karthikeyan-govindaraj.netlify.app/#contact)
 
+Take a look at my [<img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" width="23" height="23" />](https://dev.to/gkarthiks) profile.
+
 
 <!--
 ![Karthik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=gkarthiks&show_icons=true)
