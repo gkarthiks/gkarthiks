@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-I'm an engineer at BlackRock; now in India(wfh 🏡). Previously I worked at Toyota and Northern Trust.
+I'm an engineer at BlackRock. Previously I worked for Toyota and Northern Trust.
 
 * 💬&nbsp;&nbsp;&nbsp;Ask me about: Kubernetes <img src="./kubernetes.png" width="15">, Containers, Go <img src="./golang.png" width="15">, nodeJS
 * 😄&nbsp;&nbsp;&nbsp;Pronouns: he/him
