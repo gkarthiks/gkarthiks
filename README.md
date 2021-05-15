@@ -1,35 +1,25 @@
-# Hi there 👋
+<img src="./banner.gif">
 
-<!--
-**gkarthiks/gkarthiks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+[![Twitter][twitter-badge]][Twitter] [![linkedin][linkedin-badge]][linkedin] [![medium][medium-badge]][medium] ![visior badge]
 
-Here are some ideas to get you started:
+I'm [Karthikeyan Govindaraj](http://karthikeyan-govindaraj.netlify.app/), an enthusiast open-source developer, maintainer, and passionate cloud architect. I create simple applications and tools as open-source and make the developer experience better. Currently holding the helm at BlackRock as a cloud engineer. Previously I worked for Toyota and Northern Trust. I am a strong believer in DEI and also an active participant in [Inclusive Naming Initiative](inclusivenaming.org).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also love writing about technologies and technology challenges at times in my medium blog. If you like my contribution as a maintainer, developer, or writer to the open-source community maybe consider buying me a coffee ☕️
+
+<a href="https://www.buymeacoffee.com/gkarthiks" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="125" ></a>
 
 
-I'm an engineer at BlackRock. Previously I worked for Toyota and Northern Trust.
-
-* 💬&nbsp;&nbsp;&nbsp;Ask me about: Kubernetes <img src="./kubernetes.png" width="15">, Containers, Go <img src="./golang.png" width="15">, nodeJS
+* 💬&nbsp;&nbsp;&nbsp;Ask me about: Kubernetes <img src="./kubernetes.png" width="15">, Containers, Go <img src="./golang.png" width="15">, nodeJS and anything. No, literally I mean anything.
 * 😄&nbsp;&nbsp;&nbsp;[Pronouns: he/him](http://pronoun.is/he)
-* 🌍&nbsp;&nbsp;&nbsp;know more about me [here](https://karthikeyan-govindaraj.netlify.app/) or [here](https://about.me/karthikeyangovindaraj)
-* 📧&nbsp;&nbsp;&nbsp;Shoot me an email if you got anything interesting to discuss
+
+* 🌍&nbsp;&nbsp;&nbsp;know more about me [here](https://karthikeyan-govindaraj.netlify.app/)
 * 🤔&nbsp;&nbsp;&nbsp;I’m looking for help with co-contributors and maintainers for [Container Building Blocks](https://github.com/Container-Building-Blocks/)
-* 📫&nbsp;&nbsp;&nbsp;To reach me [click here](https://karthikeyan-govindaraj.netlify.app/#contact)
+* 📫&nbsp;&nbsp;&nbsp;To reach me [click here](https://karthikeyan-govindaraj.netlify.app/#contact) or for immediate response message me [@gkarthics](https://twitter.com/gkarthics)
+* 🎤&nbsp;&nbsp;&nbsp;To ask me to speak at your event [click here](https://www.cncf.io/speaker/gkarthiks/)
 
-## Contact
 
-[![Twitter][twitter-badge]][Twitter]
-[![linkedin][linkedin-badge]][linkedin]
-[![medium][medium-badge]][medium]
+<!-- * 📧&nbsp;&nbsp;&nbsp;Shoot me an email if you got anything interesting to discuss -->
 
 ## Stats
 
@@ -44,14 +34,13 @@ I'm an engineer at BlackRock. Previously I worked for Toyota and Northern Trust.
 
 
 
-
-[twitter-badge]: https://img.shields.io/twitter/url?label=Reach%20gkarthics&style=social&url=https%3A%2F%2Ftwitter.com%2Fgkarthics
+[twitter-badge]: https://img.shields.io/twitter/url?label=@gkarthics&style=social&url=https%3A%2F%2Ftwitter.com%2Fgkarthics
 [Twitter]: https://twitter.com/gkarthics
 
 [linkedin-badge]: https://img.shields.io/badge/linkedin-%230077B5.svg?&logoColor=white&logo=linkedin&style=flat
 [linkedin]: https://www.linkedin.com/in/gkarthiks/
 
-[medium-badge]: https://img.shields.io/badge/my%20blog%20on-Medium-black
+[medium-badge]: https://img.shields.io/badge/blog-Medium-black
 [medium]: https://medium.com/@github.gkarthiks
 
 [github-years]: https://badges.pufler.dev/years/DirtyCajunRice?style=flat&label=Github%20Years&color=blue
@@ -60,3 +49,5 @@ I'm an engineer at BlackRock. Previously I worked for Toyota and Northern Trust.
 [lang-stats]: https://github-readme-stats.vercel.app/api/top-langs/?username=gkarthiks&layout=compact&theme=dracula&hide_title=true
 
 [Karthik's GitHub Stats]: https://github-readme-stats.vercel.app/api?username=gkarthiks&count_private=true&show_icons=true&theme=dracula&include_all_commits=true&hide_title=true
+
+[visior badge]: https://visitor-badge.glitch.me/badge?page_id=gkarthiks.gkarthiks
