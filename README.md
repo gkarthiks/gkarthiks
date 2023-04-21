@@ -3,7 +3,7 @@
 # Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 [![Twitter][twitter-badge]][Twitter] [![linkedin][linkedin-badge]][linkedin] [![medium][medium-badge]][medium] ![visior badge]
 
-I'm [Karthikeyan Govindaraj](http://karthikeyan-govindaraj.netlify.app/), <b>CKA, KCNA</b> an enthusiast open-source developer, maintainer, and passionate cloud architect. I create simple applications and tools as open-source and make the developer experience better. Currently holding the helm at BlackRock as a cloud engineer. Previously I worked for Toyota and Northern Trust. 
+I'm [Karthikeyan Govindaraj](http://karthikeyan-govindaraj.netlify.app/), <b>CKA, KCNA</b> an enthusiast open-source developer, maintainer, and passionate cloud architect. I create simple applications and tools as open-source and make the developer experience better. Currently holding the helm at Oracle as Principal SRE. Previously sailed the ship for BlackRock, Toyota and Northern Trust.
 <!-- I am a strong believer in DEI and also an active participant in [Inclusive Naming Initiative](https://inclusivenaming.org). -->
 
 I also love writing about technologies and technology challenges at times in my medium blog. If you like my contribution as a maintainer, developer, or writer to the open-source community maybe consider buying me a coffee ☕️
