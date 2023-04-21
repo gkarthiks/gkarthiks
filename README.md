@@ -11,12 +11,11 @@ I also love writing about technologies and technology challenges at times in my 
 
 
 * 💬&nbsp;&nbsp;&nbsp;Ask me about: Kubernetes <img src="./kubernetes.png" width="15">, Containers, Go <img src="./golang.png" width="15">, nodeJS and anything. No, literally I mean anything.
-* 😄&nbsp;&nbsp;&nbsp;[Pronouns: he/him](http://pronoun.is/he)
 
 * 🌍&nbsp;&nbsp;&nbsp;know more about me [here](https://karthikeyan-govindaraj.netlify.app/)
-* 🤔&nbsp;&nbsp;&nbsp;I’m looking for help with co-contributors and maintainers for [Container Building Blocks](https://github.com/Container-Building-Blocks/)
+<!-- * 🤔&nbsp;&nbsp;&nbsp;I’m looking for help with co-contributors and maintainers for [Container Building Blocks](https://github.com/Container-Building-Blocks/) -->
 * 📫&nbsp;&nbsp;&nbsp;To reach me [click here](https://karthikeyan-govindaraj.netlify.app/#contact) or for immediate response message me [@gkarthics](https://twitter.com/gkarthics)
-* 🎤&nbsp;&nbsp;&nbsp;To ask me to speak at your event [click here](https://www.cncf.io/speaker/gkarthiks/)
+<!-- * 🎤&nbsp;&nbsp;&nbsp;To ask me to speak at your event [click here](https://www.cncf.io/speaker/gkarthiks/) -->
 
 
 <!-- * 📧&nbsp;&nbsp;&nbsp;Shoot me an email if you got anything interesting to discuss -->
